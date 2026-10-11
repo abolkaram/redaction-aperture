@@ -1,0 +1,12 @@
+{
+  "network": "StudioNet",
+  "account": "abolkaram",
+  "deployerAddress": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
+  "contractAddress": "0x8eaf2F6c0b82A2D0156FD95a29498C679167251A",
+  "deploymentTransaction": "0xe770163bb3cb60d500a820ad06f4bc831846ca765deb3a7a4a60d85ce0616be0",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "bc27c6acafcfef02a0aef73cc064969a9712c6103eae3aa78a0061f31c22897e",
+  "sourceCommit": "cc60df2e7dc924a84ec17ae916b7bfbb2940a605",
+  "repository": "https://github.com/abolkaram/redaction-aperture"
+}

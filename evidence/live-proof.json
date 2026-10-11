@@ -1,0 +1,45 @@
+{
+  "apertureId": "AP-1791759199",
+  "transactions": {
+    "open": "0x5e7c7cec242867c4d949b038e27c8b0f8b25a7a84e9cbed442d7843025f7f14b",
+    "resolve": "0xef225287230af57cf4b0a19bce88e18630578f456a488c38bfba5955836ab037"
+  },
+  "state": {
+    "digests": [
+      "e26a373ba6ce5608b59fc10c064f5af552d15e40b4896ec32706006d915fdfe4",
+      "ca634cda62b4cc8dffd984782bab51952a84e414bcbfd4487334f748f0cffa62"
+    ],
+    "document_url": "https://raw.githubusercontent.com/abolkaram/redaction-aperture/cc60df2e7dc924a84ec17ae916b7bfbb2940a605/evidence/document.md",
+    "id": "AP-1791759199",
+    "line_count": 6,
+    "owner": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
+    "policy_url": "https://raw.githubusercontent.com/abolkaram/redaction-aperture/cc60df2e7dc924a84ec17ae916b7bfbb2940a605/evidence/policy.md",
+    "release_runs": [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "sensitive_rows": [
+      {
+        "category": 0,
+        "line_index": 1
+      },
+      {
+        "category": 1,
+        "line_index": 3
+      }
+    ],
+    "state": "REDACTED",
+    "title": "Studio release copy"
+  },
+  "disclosure": "The document and policy are operator-authored technical fixtures."
+}

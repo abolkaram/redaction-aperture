@@ -1,0 +1,9 @@
+{
+  "contract": "0x8eaf2F6c0b82A2D0156FD95a29498C679167251A",
+  "deploymentTransaction": "0xe770163bb3cb60d500a820ad06f4bc831846ca765deb3a7a4a60d85ce0616be0",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "sourceSha256": "bc27c6acafcfef02a0aef73cc064969a9712c6103eae3aa78a0061f31c22897e",
+  "sourceMatches": true
+}
